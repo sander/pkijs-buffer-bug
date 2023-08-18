@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "pkijs": "^3.0.15"
+  },
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
